@@ -44,3 +44,6 @@ https://www.baeldung.com/spring-data-jpa-query
 one to many mappings
 https://www.callicoder.com/hibernate-spring-boot-jpa-one-to-many-mapping-example/
 https://www.baeldung.com/spring-data-jpa-query
+
+many to many mappings
+https://www.callicoder.com/hibernate-spring-boot-jpa-many-to-many-mapping-example/
